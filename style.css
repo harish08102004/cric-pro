@@ -1,0 +1,118 @@
+/* Type your code here */
+body {
+  background-image: url(https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/cricpro-bg.png);
+  background-repeat: no-repeat;
+  background-position-x: right;
+  background-position-y: 200px;
+  margin: 0;
+  padding: 0;
+  right: 120px;
+}
+th {
+  background-color: red;
+  color: white;
+  height: 10px;
+}
+#info {
+  word-spacing: 100px;
+}
+table {
+  background-color: white;
+  width: 900px;
+  height: 400px;
+  margin-left: 123px;
+  margin-right: auto;
+  margin-bottom: 0%;
+}
+.blue {
+  color: rgb(74, 157, 235);
+}
+.grey {
+  color: gray;
+}
+.subtitle {
+  font-family: 'Nunito Sans, sans-serif';
+  font-style: oblique;
+  font-size: large;
+  margin-left: 123px;
+}
+img {
+  float: right;
+}
+.lkj {
+  margin-left: 123px;
+}
+* {
+  margin: auto;
+}
+.footer {
+  margin-left: 115px;
+}
+table,
+th,
+td {
+  border: 1px solid 000;
+  border-collapse: collapse;
+}
+td {
+  text-align: left;
+  width: auto;
+}
+
+.k {
+  margin-left: 119px;
+  background-color: white;
+  width: 864px;
+  border-top: 1px solid rgb(223, 222, 222);
+  margin-bottom: 00px;
+  height: 30px;
+  justify-content: center;
+  padding: 20px;
+  word-spacing: 0%;
+}
+th,
+td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+.l {
+  margin-bottom: 00px;
+  margin-left: 119px;
+  background-color: white;
+  width: 864px;
+  border-top: 1px solid rgb(223, 222, 222);
+  height: 30px;
+  justify-content: center;
+  padding: 20px;
+  word-spacing: 0%;
+}
+.h {
+  margin-bottom: 00px;
+  margin-left: 119px;
+  background-color: white;
+  width: 864px;
+  border-top: 1px solid rgb(223, 222, 222);
+  height: 30px;
+  justify-content: center;
+  padding: 20px;
+  word-spacing: 0%;
+}
+.a {
+  margin-left: 160px;
+}
+.i {
+  margin-left: 500px;
+}
+.m {
+  margin-left: 510px;
+}
+p {
+  color: rgb(124, 196, 224);
+  text-align: center;
+  margin-right: 100px;
+  margin-bottom: 100px;
+}
+/* .bimg{
+  display: none;
+} */
